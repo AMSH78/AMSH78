@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Abolfazl, and i'm an Computer Scientist interested in all things Python & Machine learning! 
 - 🔭 I’m currently working on PYTHON
 - 🌱 I’m currently learning Hack and security
 - 👯 I’m looking to collaborate on AI
